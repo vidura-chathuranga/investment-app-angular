@@ -1,5 +1,5 @@
 # Investment App
-## Demo Link - https://investment-app-angular-aucya086b.vercel.app/
+## Demo Link - https://investment-app-angular.vercel.app/
 
 This is my second Angular project, built to practice and explore various Angular concepts and architectures. The project demonstrates the following:
 
